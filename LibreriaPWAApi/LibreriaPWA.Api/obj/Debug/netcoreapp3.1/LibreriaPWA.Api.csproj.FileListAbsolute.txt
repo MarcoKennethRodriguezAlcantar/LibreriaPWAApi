@@ -1,0 +1,123 @@
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\LibreriaPWA.Api.exe
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\LibreriaPWA.Api.deps.json
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\LibreriaPWA.Api.runtimeconfig.json
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\LibreriaPWA.Api.runtimeconfig.dev.json
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\LibreriaPWA.Api.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\LibreriaPWA.Api.pdb
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\LibreriaPWA.Api.csproj.AssemblyReference.cache
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\LibreriaPWA.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\LibreriaPWA.Api.AssemblyInfoInputs.cache
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\LibreriaPWA.Api.AssemblyInfo.cs
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\LibreriaPWA.Api.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\LibreriaPWA.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\staticwebassets\LibreriaPWA.Api.StaticWebAssets.Manifest.cache
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\staticwebassets\LibreriaPWA.Api.StaticWebAssets.xml
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\LibreriaPWA.Api.styles.css
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\LibreriaPWA.Api.RazorTargetAssemblyInfo.cache
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\LibreriaPWA.Api.dll
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\LibreriaPWA.Api.pdb
+C:\Users\cesar\Documents\UTEQ\Web Apps Progresivas\Ejercicios\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\LibreriaPWA.Api.genruntimeconfig.cache
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\LibreriaPWA.Api.exe
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\LibreriaPWA.Api.deps.json
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\LibreriaPWA.Api.runtimeconfig.json
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\LibreriaPWA.Api.runtimeconfig.dev.json
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\LibreriaPWA.Api.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\LibreriaPWA.Api.pdb
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\LibreriaPWA.Api.csproj.AssemblyReference.cache
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\LibreriaPWA.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\LibreriaPWA.Api.AssemblyInfoInputs.cache
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\LibreriaPWA.Api.AssemblyInfo.cs
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\LibreriaPWA.Api.csproj.CoreCompileInputs.cache
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\LibreriaPWA.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\staticwebassets\LibreriaPWA.Api.StaticWebAssets.Manifest.cache
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\staticwebassets\LibreriaPWA.Api.StaticWebAssets.xml
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\LibreriaPWA.Api.styles.css
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\LibreriaPWA.Api.RazorTargetAssemblyInfo.cache
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\LibreriaPWA.Api.csproj.CopyComplete
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\LibreriaPWA.Api.dll
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\LibreriaPWA.Api.pdb
+D:\WebProgresivo\LibreriaPWAApi\LibreriaPWAApi\LibreriaPWA.Api\obj\Debug\netcoreapp3.1\LibreriaPWA.Api.genruntimeconfig.cache
